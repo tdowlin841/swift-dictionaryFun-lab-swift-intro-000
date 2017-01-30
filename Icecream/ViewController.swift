@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        icecream.attendeeList()
         
         // Test your functions here. You have access to the icecream constant created above.
         
